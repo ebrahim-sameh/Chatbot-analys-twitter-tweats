@@ -34,4 +34,4 @@ For Heroku (the simplist IMO):
 *	`heroku ps:scale worker=1`
 *	Test by tweeting at the bot / checking `heroku logs`
 
-Contact me on Twitter about anything: [@JohnCoogan](http://twitter.com/johncoogan)
+* Note : I took the idea from Existed project on github :D
